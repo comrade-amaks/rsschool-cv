@@ -20,16 +20,22 @@ I am a web developer with a technical background. I graduated from a radiotechni
 
 ### Skills:
 
-HTML, SCSS, JS/TS, React/Next, Vue/Nuxt, Node.js, Material UI, Tailwind
+|                 |                                            |
+| --------------- | ------------------------------------------ |
+| **Languages :** | JS, TS, PHP                                |
+| **Frontend :**  | React, Next.js, Vue, Nuxt.js               |
+| **Styling :**   | HTML, CSS, SCSS, Tailwind CSS, Material UI |
+| **Backend :**   | Node.js, Express, MongoDB                  |
+| **Tools :**     | Git, GitHub, VS Code, Figma, Linux, Bash   |
 
 ### Education:
 
-- **Yandex Practicum** (2023) — Web Developer Professional Retraining Program (10 months).
-- **St. Petersburg Radiotechnical College** (2015) — Technical Degree in Radio Engineering.
+- **Yandex Practicum** -- Web Developer Professional Retraining Program (10 months).
+- **St. Petersburg Radiotechnical College** -- Technical Degree in Radio Engineering.
 
 ### Projects
 
-**Mesto image gallery** - A React.js project from Yandex Practicum web development course.
+**Mesto image gallery** -- A React.js project from Yandex Practicum web development course.
 
 - [Live demo (GitHub Pages)](https://comrade-amaks.github.io/mesto-react/)
 - [Repository](https://github.com/comrade-amaks/mesto-react)
