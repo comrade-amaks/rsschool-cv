@@ -1,3 +1,32 @@
+# CV: Andrei Maksimenia
+
+![Andrei Maksimenia portrait photo](https://lh3.googleusercontent.com/a/ACg8ocKZ7IzchrWCa76Uiz4_EtcVjoXfRUcWymgaYqpT_p6_GFkW0fNL=s360-c-no)
+
+## Self-introduction
+
+### Bio:
+
+I am a web developer with a technical background. I graduated from a radiotechnical college and I've always liked everything tech and software related. I lived and studied in the USA for 10 years, so English is like a second native language to me. After finishing a 10-month web development course at Yandex Practicum, I am now focused on building web applications that bring joy to users and solve business problems.
+
+### Contact Information:
+
+- **Telegram:** [comrade_amaks](https://t.me/comrade_amaks)
+- **Github:** [comrade-amaks](https://github.com/comrade‑amaks)
+- **Discord:** \_\_andre\_\_0312
+
+### English:
+
+**C1 (Advanced / Fluent)**. Lived and studied in the USA for 10 years.
+
+### Skills:
+
+HTML, SCSS, JS/TS, React/Next, Vue/Nuxt, Node.js, Material UI, Tailwind
+
+### Education:
+
+- **Yandex Practicum** (2023) — Web Developer Professional Retraining Program (10 months).
+- **St. Petersburg Radiotechnical College** (2015) — Technical Degree in Radio Engineering.
+
 ### Projects
 
 **Mesto image gallery** - A React.js project from Yandex Practicum web development course.
