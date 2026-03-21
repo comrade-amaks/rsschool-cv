@@ -13,6 +13,7 @@ I am a web developer with a technical background. I graduated from a radiotechni
 - **Telegram:** [comrade_amaks](https://t.me/comrade_amaks)
 - **Github:** [comrade-amaks](https://github.com/comrade‑amaks)
 - **Discord:** \_\_andre\_\_0312
+- **Email:** maksimenia.a@gmail.com
 
 ### English:
 
