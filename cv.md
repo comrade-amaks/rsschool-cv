@@ -20,13 +20,13 @@ I am a web developer with a technical background. I graduated from a radiotechni
 
 ### Skills:
 
-|                 |                                            |
-| --------------- | ------------------------------------------ |
-| **Languages :** | JS, TS, PHP                                |
-| **Frontend :**  | React, Next.js, Vue, Nuxt.js               |
-| **Styling :**   | HTML, CSS, SCSS, Tailwind CSS, Material UI |
-| **Backend :**   | Node.js, Express, MongoDB                  |
-| **Tools :**     | Git, GitHub, VS Code, Figma, Linux, Bash   |
+|                 |                                                   |
+| --------------- | ------------------------------------------------- |
+| **Languages :** | JS, TS, PHP                                       |
+| **Frontend :**  | React, Next.js, Vue, Nuxt.js                      |
+| **Styling :**   | BEM, HTML, CSS, SCSS, Tailwind CSS, Material UI   |
+| **Backend :**   | Node.js, Express, MongoDB, MySQL                  |
+| **Tools :**     | Git, GitHub, VS Code, Figma, Linux, Bash, Postman |
 
 ### Education:
 
