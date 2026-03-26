@@ -1,0 +1,86 @@
+:root {
+  --font-sans:
+    ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
+    'Segoe UI Symbol', 'Noto Color Emoji';
+  --font-serif: ui-serif, Georgia, Cambria, 'Times New Roman', Times, serif;
+  --font-mono:
+    ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono',
+    'Courier New', monospace;
+
+  --breakpoint-sm: 40rem;
+  --breakpoint-md: 48rem;
+  --breakpoint-lg: 64rem;
+  --breakpoint-xl: 80rem;
+  --breakpoint-2xl: 96rem;
+
+  --dark-charcoal: #222831;
+  --gunmetal: #393e46;
+  --emerald-teal: #00adb5;
+  --light-smoke: #e3e3e3;
+  --soft-silver: #cccccc;
+
+  /* Another nice one */
+  --bg: #222831;
+  --bg-alt: #30475e;
+  --text: #dddddd;
+  --accent: #f05454;
+
+  --bg-color: var(--dark-charcoal);
+  --bg-secondary: var(--gunmetal);
+  --text-primary: var(--light-smoke);
+  --text-secondary: var(--soft-silver);
+  --accent-primary: var(--emerald-teal);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  /* margin: 0;
+  padding: 0; */
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--text-secondary);
+  background-color: var(--bg-color);
+}
+
+.container {
+  max-width: var(--breakpoint-xl);
+  margin-inline: auto;
+  padding-inline: 1rem;
+}
+
+.nav__list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.contacts__list {
+  display: flex;
+  gap: 4rem;
+}
