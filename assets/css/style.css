@@ -146,8 +146,20 @@ body {
   justify-content: center;
   flex-wrap: wrap; */
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  /* grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); */
+  grid-template-columns: 1fr;
   gap: 2rem;
+}
+
+@media (min-width:40rem) {
+  .contacts__list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (min-width: 64rem) {
+  .contacts__list {
+    grid-template-columns: repeat(4, 1fr);
+  }
 }
 
 .code {
